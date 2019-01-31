@@ -1,0 +1,9 @@
+to do:
+
+separar todos os arquivos linkados
+
+testar o multiplexador
+
+tentar a solução de capturar o multiplexador dentro do python e repassar para o software
+
+melhorar o artigo
